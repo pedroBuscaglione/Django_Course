@@ -1,2 +1,2 @@
-## Django Youtube Course I've taken
-An introduction to Django in a 3 hours course
+## Django Youtube Course
+I've taken an introduction course of Django with 3 hours
